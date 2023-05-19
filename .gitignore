@@ -1,0 +1,42 @@
+# created by virtualenv automatically
+#*
+# Django project settings
+*.env
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+local_settings.py
+
+# Database
+*.sqlite3
+
+# Static files
+/static/
+/staticfiles/
+
+# Media files
+/media/
+
+# Virtual environment
+venv/
+.venv/
+ENV/
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Compiled Python modules
+*.pyc
+*.pyo
+*.pyd
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
